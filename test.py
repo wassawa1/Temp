@@ -5,6 +5,8 @@ z= np.arange(14)
 
 print(x)
 print(y)
+print(z)
 
-result = x + y
+# Add z to x and y
+result = np.max(x) + np.max(y) + np.max(z)
 print(result)

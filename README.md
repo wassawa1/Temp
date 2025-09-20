@@ -6,6 +6,20 @@
 
 ## Usage
 
+### Setup
+
+以下のライブラリをインストールしておいてください
+
+```markdown
+numpy==2.2.6
+```
+
+```bash
+pip install numpy==2.2.6
+```
+
+### Execution
+
 ```python
 python test.py
 ```
